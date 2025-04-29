@@ -4,7 +4,7 @@ let series = []; // Will be loaded from JSON
 
 // URL where the JSON file will live relative to the HTML file
 // Using a relative path is simplest when hosted together
-const resultsDataUrl = './latest-results-data.json'; // Fetches from the same directory
+const resultsDataUrl = './lysterfield_results_backup_2025-04-29.json'; // Fetches from the same directory
 
 // --- DOM Element References (Add necessary ones for viewer) ---
 // Tab Buttons
@@ -405,7 +405,7 @@ function calculateSeriesResults() {
          });
     }
 
-     if (legendDiv) { legendDiv.innerHTML = `<strong>Legend:</strong> <span class="discarded-example">15</span> Discarded Score,  <span class="nr-cell">NR</span> No Race/Not Sailed,  <span>DNF</span> Did Not Finish,  <span>DNS</span> Did Not Start,  <span>OCS</span> On Course Side,  <span>DSQ</span> Disqualified,  <span>OOD</span> Race Officer Duty,  <span>DNC</span> Did Not Compete (Race Sailed)`; }
+     if (legendDiv) { legendDiv.innerHTML = `<strong>Legend:</strong> <span class="discarded-example">15</span> Discarded Score,Â  <span class="nr-cell">NR</span> No Race/Not Sailed,Â  <span>DNF</span> Did Not Finish,Â  <span>DNS</span> Did Not Start,Â  <span>OCS</span> On Course Side,Â  <span>DSQ</span> Disqualified,Â  <span>OOD</span> Race Officer Duty,Â  <span>DNC</span> Did Not Compete (Race Sailed)`; }
 
     // --- END: Copy core calculation logic ---
 
