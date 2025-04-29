@@ -1,0 +1,287 @@
+{
+  "version": "LysterfieldResultsApp_v1.2_discardThreshold",
+  "exportDate": "2025-04-29T12:18:38.872Z",
+  "seriesData": [
+    {
+      "id": 1745926394692,
+      "name": "Summer",
+      "numberOfRaces": 8,
+      "discardThreshold": 4,
+      "dncScoringRule": "raceEntries",
+      "races": [
+        {
+          "raceNumber": 1,
+          "date": null,
+          "entries": [
+            {
+              "sailNumber": "1986",
+              "boatClass": "Sabre",
+              "skipper": "Steve Watson",
+              "yardstick": 127,
+              "status": "finished",
+              "elapsedTime": "00:39:52"
+            },
+            {
+              "sailNumber": "1200",
+              "boatClass": "Pacer Non Spinnaker",
+              "skipper": "Megan Cross",
+              "yardstick": 130.4,
+              "status": "finished",
+              "elapsedTime": "00:42:42"
+            },
+            {
+              "sailNumber": "201533",
+              "boatClass": "Laser Radial",
+              "skipper": "Glen Moulton",
+              "yardstick": 118.5,
+              "status": "finished",
+              "elapsedTime": "00:38:52"
+            },
+            {
+              "sailNumber": "639",
+              "boatClass": "Impulse",
+              "skipper": "Jarrod Beaumont",
+              "yardstick": 118.5,
+              "status": "DNF",
+              "elapsedTime": ""
+            }
+          ],
+          "results": [
+            {
+              "sailNumber": "1986",
+              "boatClass": "Sabre",
+              "skipper": "Steve Watson",
+              "yardstick": 127,
+              "status": "finished",
+              "elapsedTime": "00:39:52",
+              "correctedSeconds": 1883.4645669291338,
+              "correctedTime": "00:31:23",
+              "position": 1,
+              "points": 1
+            },
+            {
+              "sailNumber": "1200",
+              "boatClass": "Pacer Non Spinnaker",
+              "skipper": "Megan Cross",
+              "yardstick": 130.4,
+              "status": "finished",
+              "elapsedTime": "00:42:42",
+              "correctedSeconds": 1964.723926380368,
+              "correctedTime": "00:32:45",
+              "position": 2,
+              "points": 2
+            },
+            {
+              "sailNumber": "201533",
+              "boatClass": "Laser Radial",
+              "skipper": "Glen Moulton",
+              "yardstick": 118.5,
+              "status": "finished",
+              "elapsedTime": "00:38:52",
+              "correctedSeconds": 1967.9324894514768,
+              "correctedTime": "00:32:48",
+              "position": 3,
+              "points": 3
+            },
+            {
+              "sailNumber": "639",
+              "boatClass": "Impulse",
+              "skipper": "Jarrod Beaumont",
+              "yardstick": 118.5,
+              "status": "DNF",
+              "elapsedTime": "",
+              "correctedSeconds": null,
+              "correctedTime": null,
+              "position": "DNF",
+              "points": 5
+            }
+          ]
+        },
+        {
+          "raceNumber": 2,
+          "date": null,
+          "entries": [],
+          "results": []
+        },
+        {
+          "raceNumber": 3,
+          "date": null,
+          "entries": [],
+          "results": []
+        },
+        {
+          "raceNumber": 4,
+          "date": null,
+          "entries": [],
+          "results": []
+        },
+        {
+          "raceNumber": 5,
+          "date": null,
+          "entries": [],
+          "results": []
+        },
+        {
+          "raceNumber": 6,
+          "date": null,
+          "entries": [],
+          "results": []
+        },
+        {
+          "raceNumber": 7,
+          "date": null,
+          "entries": [],
+          "results": []
+        },
+        {
+          "raceNumber": 8,
+          "date": null,
+          "entries": [],
+          "results": []
+        }
+      ]
+    }
+  ],
+  "boatListData": [
+    {
+      "id": 1745922388519,
+      "sailNumber": "1200",
+      "boatClass": "Pacer Non Spinnaker",
+      "skipper": "Megan Cross",
+      "yardstick": 130.4
+    },
+    {
+      "id": 1745923945533,
+      "sailNumber": "121",
+      "boatClass": "59er",
+      "skipper": "Simon Humphries",
+      "yardstick": 96.4
+    },
+    {
+      "id": 1745922021664,
+      "sailNumber": "1326",
+      "boatClass": "Contender",
+      "skipper": "Dalton Harvie",
+      "yardstick": 106.5
+    },
+    {
+      "id": 1745923298805,
+      "sailNumber": "1437",
+      "boatClass": "Sabre",
+      "skipper": "Jarrod Beaumont",
+      "yardstick": 127
+    },
+    {
+      "id": 1745924149989,
+      "sailNumber": "1640",
+      "boatClass": "Arrow",
+      "skipper": "Mara Chachs",
+      "yardstick": 89
+    },
+    {
+      "id": 1745922470254,
+      "sailNumber": "170522",
+      "boatClass": "Laser Radial",
+      "skipper": "Don MacLachlan",
+      "yardstick": 118.5
+    },
+    {
+      "id": 1745922076231,
+      "sailNumber": "176928",
+      "boatClass": "Laser",
+      "skipper": "Kim Straatemei",
+      "yardstick": 114
+    },
+    {
+      "id": 1745922614111,
+      "sailNumber": "1869",
+      "boatClass": "Tasar",
+      "skipper": "John Reid",
+      "yardstick": 108
+    },
+    {
+      "id": 1745921962599,
+      "sailNumber": "194954",
+      "boatClass": "Laser Radial",
+      "skipper": "John Reid",
+      "yardstick": 118.5
+    },
+    {
+      "id": 1745922295551,
+      "sailNumber": "1986",
+      "boatClass": "Sabre",
+      "skipper": "Steve Watson",
+      "yardstick": 127
+    },
+    {
+      "id": 1745922895638,
+      "sailNumber": "201533",
+      "boatClass": "Laser Radial",
+      "skipper": "Glen Moulton",
+      "yardstick": 118.5
+    },
+    {
+      "id": 1745922557030,
+      "sailNumber": "225",
+      "boatClass": "Alpha Omega 4.3",
+      "skipper": "Luke Anderson",
+      "yardstick": 88
+    },
+    {
+      "id": 1745923848950,
+      "sailNumber": "2335",
+      "boatClass": "Tasar",
+      "skipper": "Simon Humphries",
+      "yardstick": 108
+    },
+    {
+      "id": 1745921938792,
+      "sailNumber": "426",
+      "boatClass": "Impulse",
+      "skipper": "Herman Cleven",
+      "yardstick": 118.5
+    },
+    {
+      "id": 1745922834191,
+      "sailNumber": "455",
+      "boatClass": "Impulse",
+      "skipper": "Mike Crook",
+      "yardstick": 118.5
+    },
+    {
+      "id": 1745921997328,
+      "sailNumber": "466",
+      "boatClass": "Impulse",
+      "skipper": "Sean Williams",
+      "yardstick": 118.5
+    },
+    {
+      "id": 1745921980952,
+      "sailNumber": "5045",
+      "boatClass": "Moth Scow",
+      "skipper": "Allen Davis",
+      "yardstick": 115
+    },
+    {
+      "id": 1745921894991,
+      "sailNumber": "639",
+      "boatClass": "Impulse",
+      "skipper": "Jarrod Beaumont",
+      "yardstick": 118.5
+    },
+    {
+      "id": 1745921915752,
+      "sailNumber": "71",
+      "boatClass": "Laser",
+      "skipper": "Steve McConnell",
+      "yardstick": 114
+    },
+    {
+      "id": 1745922416286,
+      "sailNumber": "717",
+      "boatClass": "RS Neo",
+      "skipper": "Rory Wainer",
+      "yardstick": 124.3
+    }
+  ]
+}
